@@ -2,4 +2,4 @@
 
 Power BI Dashboard of E-commerce sales data.
 
-Created a sample dashboard on Power BI using csv files. 
+Created a simple dashboard on Power BI using csv files. 
